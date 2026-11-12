@@ -6,8 +6,8 @@ Application météo basée sur une architecture microservices, permettant de con
 ##  Équipe (Classe 4SSA15-G3)
 - Souha Said
 - Nadim Sboui
-- Chrif
-- Adel
+- Chrif Smaya
+- Adel Ben Sassi
 - Moataz Achour
 - Omar Bousrih
 
