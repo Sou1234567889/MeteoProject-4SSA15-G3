@@ -1,4 +1,4 @@
-package tn.moataz.eureka;
+package tn.esprit.eureka;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
